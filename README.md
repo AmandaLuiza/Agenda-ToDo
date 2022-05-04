@@ -14,4 +14,4 @@ Para acessar o site basta iniciar o json e logo em seguida abrir o terminal e co
 
 Irá iniciar no localhost:4200/home
 
-Ainda tem mais
+Continua..
