@@ -1,0 +1,41 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  button {
+    cursor: pointer;
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 00.313rem;
+  }
+
+  button:nth-child(2){
+    background-color: red;
+    color: white;
+  }
+
+  button:nth-child(2):hover{
+    transform: scale(1.05);
+  }
+
+  button:nth-child(3){
+    background-color: lightgreen;
+    color: white;
+  }
+
+  button:nth-child(3):hover{
+    transform: scale(1.05);
+  }
+
+  button:nth-child(4){
+    background-color: lightblue;
+    color: white;
+  }
+
+  button:nth-child(4):hover{
+    transform: scale(1.05);
+  }
+}
+

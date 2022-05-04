@@ -1,0 +1,6 @@
+<section class="container" *ngFor="let item of listaTarefas">
+  <p>{{ item.name }}</p>
+  <button (click)="deletarTarefa(item.id!)">deletar</button>
+  <button (click)="marcarTarefa(item.marcar!, item.id!)">marcar</button>
+  <button routerLink="/atualizar/{{ item.id }}" >atualizar</button>
+</section>
