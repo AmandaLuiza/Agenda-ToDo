@@ -1,0 +1,5 @@
+<form class="form"  (ngSubmit)="Adicionartarefa()">
+  <input type="buttom" name="tarefa" placeholder="Digite sua tarefa" [(ngModel)]="tarefa.name" (input)="pressionar()">
+  <p *ngIf="inputVazio == true">esse campo é obrigatório</p>
+  <button class="btn">adicionar</button>
+</form>
