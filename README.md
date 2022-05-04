@@ -15,7 +15,8 @@ Front end
 
 Para acessar o site basta iniciar o json e logo em seguida abrir o terminal e colocar o endereço e usar o comando ng serve
 
-![image](https://user-images.githubusercontent.com/77518236/166692783-7c2a4343-2a8f-4705-b79f-e215a75c91b9.png)
+![image](https://user-images.githubusercontent.com/77518236/166708059-386530cb-79fc-45b8-a351-0fcc557f40bf.png)
+
 
 Irá iniciar no localhost:4200/home
 
