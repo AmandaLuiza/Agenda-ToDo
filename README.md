@@ -18,6 +18,6 @@ Para acessar o site basta iniciar o json e logo em seguida abrir o terminal e co
 ![image](https://user-images.githubusercontent.com/77518236/166708059-386530cb-79fc-45b8-a351-0fcc557f40bf.png)
 
 
-Irá iniciar no localhost:4200/home
+Irá iniciar no localhost
 
 Continua..
